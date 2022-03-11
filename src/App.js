@@ -63,7 +63,7 @@ peticionGet();
              <th>Nombre</th>
              <th>Teléfono</th>
              <th>Nombre de Usuario</th>
-             <th>Correo</th>
+             <th>Correo o email</th>
              <th>Sitio Web</th>
              <th>Ciudad</th>
              <th>Empresa</th>
